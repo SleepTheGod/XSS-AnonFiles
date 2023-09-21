@@ -6,7 +6,7 @@ charset-normalizer==2.0.3
 click==7.1.2
 colorama==0.4.4
 colored-traceback==0.3.0
-cryptography==3.4.7
+cryptography==41.0.4
 docopt==0.6.2
 idna==3.2
 intervaltree==3.1.0
